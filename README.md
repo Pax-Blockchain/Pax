@@ -14,9 +14,9 @@ Our mission is to bridge the knowledge gap between blockchain technology and its
 - **Community-Focused:** With a focus on education we're drilled to carry our community along.
 
 ## 📊 Tokenomics
-- **Total Supply:** 100 billion PAX tokens
-- **Ecosystem Development & Community Incentives:** 30% (Staking, Participation)
-- **Investors & Private sales:** 25%
+- **Total Supply:** 620 million PAX tokens
+- **Ecosystem Development & Community Incentives:** 35% 
+- **Investors & Private sales:** 20%
 - **Liquidity pool & Exchange Listings:** 20%
 - **Team & Advisors:** 10%
 - **Treasury & Reserves:** 10%

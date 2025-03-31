@@ -1,6 +1,6 @@
 # Pax
 
-**Pax** is designed as a Layer 1 Blockchain, positioned to bridge the Knowledge gap between Blockchain Technologies and Its Users, providing a scalable Blockchain infrastructure and educational initiatives, making it easier for millions to adopt, use, and build on Web 3 and Blockchain Technologies.
+**Pax** is designed as a Layer 1 Blockchain, positioned to bridge the Knowledge gap between Blockchain Technologies and Its Users, providing a scalable Blockchain infrastructure and educational initiatives we are making it easier for millions to adopt, use, and build on Web 3 and Blockchain Technologies.
 
 ## 🌍 Vision
 Our mission is to bridge the knowledge gap between blockchain technology and its real-world users. Pax is ready to revolutionize blockchain adoption worldwide.
